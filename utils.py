@@ -15,7 +15,8 @@ def save_temp_file(file) -> str:
 
 def process_file_to_markdown(file_path: str) -> str:
     md = MarkItDown(enable_plugins=True)
-    return md.convert(file_path)
+    result = md.convert(file_path)
+    return { "markitdown": result.text_content }
 
 def delete_file(path: str):
     try:
