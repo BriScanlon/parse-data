@@ -1,0 +1,543 @@
+Accident
+
+Aircraft Type and Registration:
+
+Piper PA-18-150, G-CUBX
+
+No & Type of Engines:
+
+1 Lycoming O-320-A2B piston engine
+
+Year of Manufacture:
+
+1981 (Serial no: 18-8109006)
+
+Date & Time (UTC):
+
+27 August 2024 at 0932 hrs
+
+Location:
+
+Type of Flight:
+
+Persons on Board:
+
+Injuries:
+
+Croft Farm Airstrip (Defford Airfield), Worcester
+
+Private
+
+Crew - 1
+
+Passengers - None
+
+Crew - 1 (Fatal)
+
+Passengers - N/A
+
+Nature of Damage:
+
+Aircraft destroyed
+
+Commander’s Licence:
+
+Private Pilot’s Licence
+
+Commander’s Age:
+
+65 years
+
+Commander’s Flying Experience:
+
+1,520 hours (of which 3 were on type)
+Last 90 days - 9 hours
+Last 28 days - 1 hour
+
+Information Source:
+
+AAIB Field Investigation
+
+Synopsis
+
+G-CUBX tracked to the left on the runway during takeoff and within two seconds of getting
+airborne  it  was  in  a  left  turn  tracking  toward  obstacles  south  of  the  runway.    Witnesses
+reported  seeing  the  aircraft  adopt  a  steep  nose-up  attitude,  but  it  was  not  able  to  climb
+above a tree which was one of the obstacles in its path.  G-CUBX appeared to have struck
+the tree at the apogee of its flight path before descending steeply, nose-first, into the ground.
+The pilot suffered fatal injuries at the point of ground collision.
+
+It was not possible to conclusively establish why the aircraft diverged left during and after
+takeoff.  Nonetheless, the investigation considered it likely the relatively low lift off speed of
+approximately 34 kt contributed to the pilot having insufficient aerodynamic control authority
+to  effectively  counter  the  flight  path  divergence.    Being  in  a  turn  rather  than  wings  level
+would have compromised the aircraft’s climb rate resulting in it being unable to climb above
+the obstacles it was turning toward.
+
+The investigation was unable to find evidence of any pre-accident fault with the aircraft.
+
+History of the flight
+
+The accident occurred on the pilot’s second flight in G-CUBX.  The first time he flew the
+aircraft he occupied the rear seat with an instructor in the front.  On the accident flight he
+flew solo from the front seat.
+
+1
+
+All times are UTC©  Crown copyright 2025 AAIB Bulletin:    AAIB Bulletin:  G-CUBX AAIB-30327
+
+On the morning of the accident, the pilot used a remote-controlled aircraft tug to manoeuvre
+G-CUBX  out  of  its  hangar  before  completing  his  pre-flight  checks.   After  initially  having
+trouble  starting  the  engine,  he  taxied  out  for  departure  from  Runway  28.   As  the  aircraft
+entered the runway to backtrack, its wing flaps were retracted (Figure 1).
+
+CCTV snapshot showing G-CUBX entering Runway 28 to backtrack for departure
+
+Figure 1
+
+Captured on CCTV, while at low speed during the initial phase of the takeoff roll, the aircraft
+swung to the left before being re-aligned to the runway by the pilot (Figure 2).
+
+Figure 2
+
+CCTV snapshots of G-CUBX at the start of its takeoff roll
+(CCTV shows approximate local time)
+
+2
+
+All times are UTC©  Crown copyright 2025 AAIB Bulletin:    AAIB Bulletin:  G-CUBX AAIB-30327After this early yaw divergence, the remainder of the takeoff roll captured on CCTV appeared
+to progress normally, with the aircraft’s tailwheel lifting off just before the aircraft went out
+of view (Figure 3).  Approximately nine seconds later the aircraft reappeared in the CCTV
+image,  close  to  the  camera  and  in  a  steep  nose  down  attitude  just  before  it  struck  the
+ground.  While the CCTV footage was not of a sufficiently high definition to reach a definitive
+conclusion,  it  appeared  to  show  G-CUBX’s  wing  flaps  in  the  retracted  position  before  it
+struck the ground.
+
+CCTV snapshots of G-CUBX showing its tailwheel being lifted from the runway
+
+Figure 3
+
+Two  eyewitnesses  described  the  aircraft’s  initial  climb  away  from  the  ground  as  being
+steeper than expected.  They both reported the engine note sounded normal throughout
+the short flight.  One of the eyewitnesses was inside a hangar, so their view of the aircraft
+after its initial climb away from the ground was limited by the building structure.  The second
+eyewitness  described  how,  at  a  low  height,  G-CUBX’s  left  wing  dropped  and  the  aircraft
+entered a steep left turn.  It then descended, striking the ground in front of where he was
+stood.
+
+CCTV footage revealed that the fire which subsequently consumed the aircraft started near
+the cockpit area within three seconds of ground impact.
+
+Accident site
+
+While video footage of the accident shows the aircraft initially coming to rest on its nose with
+the tail almost vertically above it, during the subsequent post-accident fire the tail settled
+to the ground with the top of the vertical stabilizer resting on the floor.  The fuselage was
+inverted and there was significant damage to the structure (Figure 4).
+
+3
+
+All times are UTC©  Crown copyright 2025 AAIB Bulletin:    AAIB Bulletin:  G-CUBX AAIB-30327G-CUBX showing significant post impact fire damage
+
+Figure 4
+
+Ground impact marks show the point where the leading edge of the left wing tip struck the
+ground before the fuselage pivoted around this initial contact point causing the spinner dome
+of the propeller to hit the ground.  One of the two blades of the propeller was embedded in
+the ground and, once recovered, showed evidence of twisting consistent with the engine
+being under power when the aircraft struck the ground.
+
+Twigs from a nearby tree were caught in the tail wheel giving a good indication of the flight
+path of the aircraft and the height at the point contact was made with the top of the tree.
+A continuity check revealed that all flight controls remained connected to their respective
+control surfaces.  The exception was the right flap where the bell crank was missing and
+most  of  the  flap  had  melted  away.    The  left  flap  had  also  partially  melted  but  remained
+attached to the wing with the control cables still connected between the bell crank and flap
+control lever in the cockpit.
+
+The left wing and wing struts remained attached to the fuselage, although the right wing was
+detached at its root.  The right wing struts, although bent and showing signs of significant
+fire damage, also remained attached to the wing and the fuselage.
+
+4
+
+All times are UTC©  Crown copyright 2025 AAIB Bulletin:    AAIB Bulletin:  G-CUBX AAIB-30327Nearby, where the aircraft had been parked prior to the flight, there was a small patch of
+dead grass which was likely to have been caused by fuel dripping onto the ground during
+attempts to start the engine.  CCTV footage showed that the technician who replaced the
+ignition harness attended the aircraft while the pilot was struggling to start the engine.  He
+stated that when he lifted the cowlings, there was fuel dripping onto the air box.  He regarded
+the dripping fuel as a sign of a potentially flooded engine.  According to the O-320 engine
+operator’s manual1, ‘Cranking periods must be limited to ten (10) to twelve (12) seconds
+with a five (5) minute rest between cranking periods.’  Whilst there were multiple attempts
+made to start the engine, there was very little time between cranking attempts which was
+likely to have exacerbated the difficulty the pilot had in starting the engine.
+
+Recorded information
+
+The pilot was using a flight-planning and navigation app on a tablet device which recorded
+the aircraft’s GPS flight path.  The ground track is shown in Figure 5.  Note that the path
+stops short of the accident site by about three seconds as the recorded positions during
+this period were unreliable, probably as a result of the aircraft’s banked attitude limiting the
+tablet’s view of the GPS satellites.
+
+Figure 5
+
+GPS derived ground track of the flight
+(© 2025 Google, Image © 2025 Airbus)
+
+Footnote
+
+1  Lycoming Operator’s Manual O-320 Series, part number 60297-30, 3rd Edition, October 2006, Section 3,
+
+paragraph 3, ‘Starting procedures.’
+
+5
+
+All times are UTC©  Crown copyright 2025 AAIB Bulletin:    AAIB Bulletin:  G-CUBX AAIB-30327A side profile of the flight path is presented at Figure 6 together with other GPS derived
+data.  These data show the aircraft initially lining up on the grass strip before beginning the
+take off at time 09:32:32.
+
+After five seconds of gentle manoeuvring right, left and right again, the aircraft accelerated
+down the grass strip, veering slightly left, with the tail of the aircraft coming off the ground
+10 seconds later (before going out of view of the CCTV).  Within two seconds, the aircraft
+was airborne, after which it climbed at an average flight path angle of 14° and reached the
+maximum recorded groundspeed of 34 kt.  Now turning left, the rate of climb reduced with
+the aircraft flying over the left edge of the grass strip at just over 10 m height.
+
+The last recorded reliable position was four seconds later when the aircraft contacted a tree,
+40 m to the left of the grass strip edge, at a height of about 15 m.  Continuing to turn, and roll
+left, the aircraft came back into CCTV view descending vertically in a nose-down attitude,
+wings aligned with the grass strip, left wing first.
+
+Figure 6
+
+GPS derived data of flight
+(PA-18 clean stall speed and wingspan indicated for reference)
+
+Aircraft information and brief history
+
+The aircraft was a Piper PA18-150 Super Cub with a Lycoming O-320 horizontally opposed
+four-cylinder  engine.    Built  in  1981  and  first  registered  in  Greece,  it  had  three  previous
+registrations before being transferred from Germany to the UK and being re-registered as
+G-CLYI in 2021.  It was modified to include an Alaskan Bush fit which included large tundra
+tyres, Alaskan tail wheel, modified heavy duty landing gear and a 31.5 USG belly fuel tank.
+
+6
+
+All times are UTC©  Crown copyright 2025 AAIB Bulletin:    AAIB Bulletin:  G-CUBX AAIB-30327G-CLYI was involved in a landing accident in May 20232 where it flipped over onto its back
+whilst  braking  shortly  after  touching  down  on  a  grass  landing  strip.    The  aircraft  spent
+13 months undergoing repairs during which it was re-registered as G-CUBX in June 2024
+(Figure 7).  The engine was shock load tested by an approved engine workshop and refitted
+during the repairs.  To improve stall performance and enhance the short takeoff and landing
+capability  of  the  aircraft,  vortex  generators  had  been  fitted  just  aft  of  the  wings’  upper
+leading edges and on the lower surfaces of the horizontal stabilizer, forward of the elevator
+hinges.  These were also replaced during the repair process.  G-CUBX received a CAA UK
+Airworthiness Review Certificate (ARC) on 11 July 2024.
+
+Figure 7
+G-CUBX after repair showing features of the Alaskan Bush fit
+
+After  handing  over  the  repaired  aircraft  to  the  new  owners,  the  aircraft  was  returned  to
+the  repair  workshop  on  22  July  2024  because  the  owner  reported  ‘The  aircraft  rolls  to
+left in flight3.’  During the original repairs, the right forward wing strut had been replaced.
+Subsequent comparison of the left and right wingtip incidence angles, called ‘wash-out’4,
+showed a 2.5º difference between them.  The right wing aft strut was adjusted to remove the
+incidence difference and the aircraft was flown to confirm that the roll to the left had been
+eliminated.  This was re-confirmed by the owner during the return flight home to Croft Farm
+Airstrip.
+
+Footnote
+
+2  https://www.gov.uk/aaib-reports/aaib-investigation-to-piper-pa-18-150-g-clyi [Accessed 12 May 2025].
+3  G-CUBX Worksheet dated 22 – 30 July 2024.
+4
+
+‘Inbuilt wing twist resulting in angle of incidence reducing towards tips’, The Cambridge Aerospace Dictionary,
+Second Edition, page 768.
+
+7
+
+All times are UTC©  Crown copyright 2025 AAIB Bulletin:    AAIB Bulletin:  G-CUBX AAIB-30327
+On  16  August  2024,  multiple  problems  were  found  with  the  ignition  system  including
+inoperative spark plugs, poor condition of the ignition harness and timing problems with the
+right magneto.  The ignition harness and spark plugs were replaced and the right magneto
+removed,  reset  and  refitted.    Engine  ground  runs  were  carried  out  to  verify  the  ignition
+system was functioning correctly and the two magnetos produced the correct reduction in
+engine rpm when ‘mag-drop’ checked.  During the ground run, the technician believed he
+had witnessed a slow deployment of the left flap when compared to the right, although both
+flaps appeared to stop in their correct, fully deployed positions.
+
+Aircraft examination
+
+Engine
+
+The  engine  was  subject  to  a  strip  examination.    Nothing  significant  was  found  with  the
+mechanical  and  electrical  components  that  could  not  be  attributed  to  damage  sustained
+when the aircraft struck the ground or the post-impact fire.
+
+Airframe
+
+According to the FAA Supplemental Type Certificate5, if more than five Vortex Generators
+are  missing  or  damaged,  the  aircraft  is  not  airworthy.    It  was  not  possible  to  check  the
+Vortex Generators because they had been glued to the fabric of the wing and the horizontal
+stabiliser but the fabric had burned away in the fire.  Pictures taken shortly after delivery
+of the restored aircraft show most of the generators fitted to the wings and left horizontal
+stabiliser.    In  addition,  the  pilot  could  be  seen  checking  the  aircraft  surfaces  as  part  of
+his pre-flight inspection of the aircraft, therefore, he would likely have noticed if any were
+missing or damaged.
+
+Whilst  the  right  flap  bell  crank  was  missing  (Figure  8),  the  turnbuckle  that  should  have
+attached the flap control cable to the bell crank was intact and still attached to the control
+cable, link and return spring.  The bell crank hinge bracket remained in place and attached
+to  the  wing.   The  push  pull  flap  rod,  which  should  have  connected  the  bell  crank  to  the
+inboard flap hinge bracket, remained attached to the bracket but the bracket had separated
+from the flap.  The left flap control assembly was still connected to the left bell crank and
+flap although the wing spar section that held bell crank hinge bracket had melted releasing
+the bracket and bell crank.
+
+Footnote
+
+5  FAA STC SA00530SE issued 26 June 1998 and emended 29 May 2009.
+
+8
+
+All times are UTC©  Crown copyright 2025 AAIB Bulletin:    AAIB Bulletin:  G-CUBX AAIB-30327Control cable
+turnbuckle assembly
+
+Link - turnbuckle
+to bell crank
+
+Flap
+
+Wing
+
+Bell crank hinge
+bracket
+
+Bell crank
+
+Flap
+
+Flap return spring
+
+Push pull
+flap rod
+
+Inboard flap
+hinge
+bracket
+
+Figure 8
+
+Flap control assembly diagram
+
+It was not possible to examine the seat harnesses or any of the seat fabric because they
+had  all  been  destroyed  in  the  fire.    The  front  seat  had  been  torn  from  its  mounting  and
+distorted by the impact and the fire.  Cockpit instrument panels, switches, control system
+levers and electrical wiring were also significantly damaged or destroyed.
+
+On examining the various control cables from the cockpit controls to the control surfaces
+in more detail, no pre-existing restriction or incorrect routing was found.  The slow left flap
+deployment issue reported by the technician who replaced the ignition harness could not be
+confirmed due to the absence of the left flap bell crank and the significant damage to both
+left and right flap systems, structure and control surfaces.  A comparison of the tension force
+of the flap control return springs could not be made as both springs were damaged.  Whilst
+most of the airframe and wings were badly damaged, the wings, tail and fuselage structure,
+including their drag support wires, were still present and no pre-existing faults were found.
+
+The pitch trim, elevator, vertical stabiliser and rudder connections were still functional, and
+no  issues  were  identified  that  were  not  caused  by  the  accident  or  the  fire.    Whilst  both
+ailerons had also been damaged by the fire, they remained connected to their respective
+cockpit controls and control cables.
+
+Survivability
+
+The post-mortem confirmed that, despite the pilot wearing a four-point seat safety harness,
+at the point of collision he sustained multiple injuries which were not survivable.
+
+9
+
+All times are UTC©  Crown copyright 2025 AAIB Bulletin:    AAIB Bulletin:  G-CUBX AAIB-30327Aircraft performance
+
+The  Owners’  Handbook  (OH)  for  the  aircraft  states  that  at  maximum  gross  weight,  the
+‘power off stalling speed with full flaps in the Super Cub “150” is 43 mph [(37.4 kt)]: with flaps
+up the stalling speed increases [by] about 4 mph [(3.5 kt)].’
+
+G-CUBX  was  fitted  with  vortex  generators  to  improve  its  short  takeoff  and  landing
+performance.  The Supplementary Type Certificate documentation for the vortex generator
+modification indicated that fitting them would reduce the aircraft’s stalling speed by 16%.
+
+In  2019  a  PA-18-50  fitted  with  vortex  generators  like  those  on  G-CUBX  was  destroyed
+when it lifted off unexpectedly while stationary on the ground with its engine running6.  The
+accident pilot ascribed the unexpected lift off to strong winds and opined that ‘a gust of 25 kt
+would be sufficient to lift the aircraft into the air but that in a pre-take-off scenario there is not
+the necessary airspeed to the ailerons to counteract a rolling tendency once the wind has
+lifted the aircraft into the air.’
+
+Regarding  flap  deployment  for  takeoff,  the  OH  is  not  prescriptive,  stating  that  ‘the  flaps
+can be lowered if desired, but should be retracted as soon as climbing airspeed has been
+reached...’.
+
+Ground effect may lead to an initial airborne state which cannot be sustained as distance
+from runway surface increases and the additional lift attributable to ground effect reduces.7
+For  fixed  wing  aircraft,  this  additional  lift  reduces  to  zero  at  a  height  above  the  ground
+equivalent to the wingspan of the aircraft, which for the PA-18 is 11 m (Figure 6).
+
+Meteorology
+
+At the time of the accident good weather prevailed.  There was no low cloud, and visibility
+was more than 10 km.  While generally from a southerly direction, the surface wind was light
+and variable, giving a maximum estimated crosswind component of 5 kt.
+
+Airfield information
+
+Croft  Farm Airstrip  (also  known  as  Defford Airfield)  is  a  private  unlicensed  airfield  with  a
+single  grass  strip  570  m  long  and  18  m  wide,  designated  Runway  10/28.    Extending  for
+approximately 200 m from the threshold, an electrified livestock fence initially delineates the
+left (south) edge of Runway 28 (Figure 11).
+
+Footnote
+
+6  Accident report available at AAIB investigation to Piper PA-18-150, N162AW - GOV.UK [Accessed 3 February
+
+2025].
+
+7  https://skybrary.aero/articles/ground-effect [Accessed 3 February 2025].
+
+10
+
+All times are UTC©  Crown copyright 2025 AAIB Bulletin:    AAIB Bulletin:  G-CUBX AAIB-30327Personnel information
+
+The accident pilot had over 1,500 total flight hours gained in non-commercial flying.  His
+recent  flying  experience  was  exclusively  on  tailwheel  aircraft  including  the  Piper  J3-65
+Cub,  Harvard  and  P51  Mustang  types.    He  had  regularly  flown  from  and  was  familiar
+with operating at Croft Farm.  He did not have any significant underlying medical issues,
+and the post-mortem did not find evidence of chronic or acute conditions to indicate pilot
+incapacitation as a causal factor.
+
+Other information
+
+Adverse aileron yaw
+
+When an aileron is deflected downwards the drag it generates increases.  This results in
+a  drag  differential  between  the  two  wing  surfaces  which  generates  a  yawing  moment  in
+the  opposite  sense  to  the  applied  roll.    With  a  right  roll  input  the  left  aileron  is  deflected
+downwards and the resulting yawing moment is to the left.
+
+Swing on takeoff
+
+Due  to  a  combination  of  factors,  propeller-driven  aircraft  tend  to  ‘swing’  to  one  side  on
+take-off, this requires pilots to compensate with opposite rudder.  For nosewheel-equipped
+aircraft, the two primary factors generating swing on takeoff are slipstream effect and torque
+reaction.   These  effects  are  explained  below  and  assume  the  aircraft  is  equipped  with  a
+clockwise rotating propeller (the same as G-CUBX).  On aircraft with propellers which rotate
+in an anticlockwise direction, the divergent effects are in the opposite sense ie to the right.
+
+ ● Slipstream effect: the propeller’s rotation produces an asymmetric flow over
+
+the fin and rudder, thereby inducing a left yawing moment (Figure 9).
+
+Left yaw due to propeller slipstream (viewed from above the aircraft)
+
+Figure 9
+
+11
+
+All times are UTC©  Crown copyright 2025 AAIB Bulletin:    AAIB Bulletin:  G-CUBX AAIB-30327 ● Torque  reaction:  torque  reaction  from  driving  the  propeller  imparts  a  left
+rolling moment on the aircraft (Figure 10).  During the takeoff roll this results
+in  more  weight  being  supported  by  the  left  wheel  thereby  increasing  its
+rolling resistance and giving rise to a tendency to swing left until the aircraft
+is airborne.
+
+Figure 10
+
+Torque reaction producing rolling moment
+
+For tailwheel aircraft there are two additional factors that can affect swing during the takeoff
+roll:
+
+ ● Asymmetric blade effect: while the aircraft’s tail is down, the plane of rotation
+of the propeller is not at right angles to the direction of forward motion.  This
+means the down-going propeller blade has a higher speed relative to the
+airflow than the upgoing blade, this produces more thrust for given angle of
+attack and leads to an asymmetric left yawing moment.  As the tail is raised
+and  the  propeller’s  plane  of  rotation  becomes  more  perpendicular  to  the
+relative airflow the asymmetric blade effect reduces towards zero.
+
+ ● Gyroscopic precession: as the tail is raised, a force is applied to the top of the
+propeller disc in a nose-down sense.  The resulting gyroscopic precession
+force induces yaw/swing to the left.
+
+Analysis
+
+Despite the difficulty experienced by the pilot when initially starting the engine, eyewitness
+reports indicated it was operating normally throughout the brief flight.  CCTV evidence was
+inconclusive, but the aircraft did not appear to have its wing flaps selected down for takeoff.
+The Owners’ Handbook stated that the power off stalling speed with flaps retracted would
+have been approximately 41 kt at maximum takeoff weight, but did not contain a means for
+interpolating stalling speeds based on gross weight, or intermediate flap settings.  Applying
+the 16% stall speed reduction stated in the vortex generator Supplemental Type Certificate
+documentation to the OH figures, would give a power off stalling speed of 34.5 kt in the
+clean configuration.
+
+12
+
+All times are UTC©  Crown copyright 2025 AAIB Bulletin:    AAIB Bulletin:  G-CUBX AAIB-30327The investigation did not find conclusive evidence to explain why the pilot lifted off at 34 kt
+groundspeed or for the steep climb and apparent loss of effective control.  The investigation
+considered the aircraft’s ground roll track converging with the electrified fence bordering the
+southern edge of the runway (Figure 11) could have been a contributory factor if the pilot
+decided to lift off earlier than perhaps he originally intended.
+
+G-CUBX’s approximate ground track and flightpath (aircraft drawn to scale)
+
+Figure 11
+
+Getting  airborne  at  relatively  low  speed,  potentially  without  wing  flaps  deployed  and  in
+a  semi-stalled  condition,  would  likely  have  generated  only  limited  aerodynamic  control
+authority  for  the  pilot  to  correct  the  heading  divergence  which  appears  to  have  occurred
+almost immediately after lift-off.  Applying right aileron to level the wings could have led to
+adverse aileron yaw exacerbating any tendency for the aircraft to swing and roll left.  Using
+right  rudder,  rather  than  aileron,  to  correct  the  heading  divergence  would  have  been  an
+appropriate action, although limited aerodynamic directional control authority would have
+made such a correction more difficult.  The investigation considered it likely some of the
+adverse factors pre-disposing the aircraft to swing left on takeoff were contributory factors
+in the pilot not being able to re-establish a safe longitudinal trajectory.   However, lacking
+evidence to support detailed analysis, it was not possible to reach a definitive conclusion in
+this regard.
+
+13
+
+All times are UTC©  Crown copyright 2025 AAIB Bulletin:    AAIB Bulletin:  G-CUBX AAIB-30327Once the aircraft had started turning left towards the trees and buildings the pilot needed to
+reverse the turn or climb to avoid a collision.  As the aircraft climbed through approximately
+11 m any lift benefit from ground effect would have been lost and being in a turn would have
+further compromised the aircraft’s achievable rate of climb.
+
+At very low height and heading toward obstructions, pulling up to try and clear the obstacles
+would have been an instinctive pilot reaction.  Given that twigs were found in the tail wheel
+landing gear it is very likely that the aircraft was not able to avoid the trees.
+
+There  were  no  pre-existing  mechanical  issues  identified  with  the  aircraft  during  detailed
+examination after the accident that would explain the deviation from the runway centreline
+or  the  subsequent  circumstances  leading  to  the  accident.    Evidence  from  eyewitnesses,
+CCTV  footage  and  ground  marks,  plus  the  damage  caused  to  the  engine  and  propeller,
+indicate that the engine was under power when the ground collision occurred.
+
+Conclusion
+
+G-CUBX tracked to the left on the runway during takeoff and within two seconds of getting
+airborne it was in a left turn tracking toward obstacles south of the runway; one of these
+obstacles was the tree which G-CUBX appears to have struck at the apogee of its flight
+path.    It  was  not  possible  to  conclusively  establish  why  the  aircraft  diverged  left  during
+and  after  takeoff.    Nonetheless,  the  investigation  considered  it  likely  the  relatively  low
+lift  off  speed  contributed  to  the  pilot  having  insufficient  aerodynamic  control  authority  to
+effectively counter the flight path divergence.  Being in a turn rather than wings level would
+have compromised the aircraft’s climb rate resulting in it being unable to climb above the
+obstacles in its flight path.
+
+The investigation was unable to find evidence of any pre-accident fault with the aircraft.
+
+Published: 29 May 2025.
+
+14
+
+All times are UTC©  Crown copyright 2025 AAIB Bulletin:    AAIB Bulletin:  G-CUBX AAIB-30327
