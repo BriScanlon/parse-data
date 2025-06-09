@@ -14,7 +14,8 @@ async def parse_file(
 
     try:
         markdown_text = process_file_to_markdown(file_path)
-        markdown_filename = file.filename.rsplit(".", 1)[0] + ".md"
+        base_name = os.path.splitext(os.path.basename(file.filename))[0]
+        markdown_filename = f"{base_name}.md"
         markdown_path = os.path.join(os.path.dirname(file_path), markdown_filename)
 
         with open(markdown_path, "w", encoding="utf-8") as f:
@@ -23,8 +24,11 @@ async def parse_file(
         delete_file(file_path)
         raise HTTPException(status_code=500, detail=f"Error parsing file: {str(e)}")
 
-    # Cleanup both the uploaded file and markdown file
     background_tasks.add_task(delete_file, file_path)
     background_tasks.add_task(delete_file, markdown_path)
 
-    return FileResponse(markdown_path, media_type="text/markdown", filename=markdown_filename)
+    return FileResponse(
+        markdown_path,
+        media_type="text/markdown",
+        filename=markdown_filename
+    )
