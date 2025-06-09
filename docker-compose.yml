@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  markdown_api:
+    build: .
+    container_name: markdown_api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./temp:/app/temp
+    restart: unless-stopped
